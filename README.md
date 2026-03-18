@@ -62,7 +62,7 @@ Expo Go uygulamasını telefonunuza yükleyin ve terminalde oluşan QR kodu okut
 ## APK Linki
 
 APK dosyasına aşağıdaki bağlantı üzerinden ulaşabilirsiniz:
-APK Linki: BURAYA_APK_LINKI
+APK Linki: https://expo.dev/accounts/eslengulakbulut/projects/developer-id-card/builds/aa52ef89-3897-4633-a5c8-cd8c76d771f3
 
 ---
 
