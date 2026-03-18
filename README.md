@@ -1,50 +1,85 @@
-# Welcome to your Expo app 👋
+# Developer Career Card
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Developer Career Card, React Native ve Expo Router kullanılarak geliştirilmiş oyunlaştırılmış bir mobil uygulamadır. Bu projede klasik bir yazılımcı kimlik kartı fikri, daha etkileşimli ve kullanıcı odaklı bir deneyime dönüştürülmüştür.
 
-## Get started
+Uygulama içinde kullanıcı geliştiriciye proje atayabilir, proje ilerleyişini takip edebilir, proje tamamlandığında XP kazanabilir ve bu puanlara göre seviye atlayabilir. Ayrıca rozet sistemi ve uzmanlık alanına göre bonus puan yapısı ile uygulama daha eğlenceli ve motive edici hale getirilmiştir.
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
+## Projenin Amacı
 
-2. Start the app
+Bu projenin amacı, basit bir profil kartı yapısını oyunlaştırma dinamikleri ile geliştirerek daha canlı ve modern bir mobil uygulama deneyimi sunmaktır. Kullanıcı, uygulama içinde yalnızca bilgi görüntülemekle kalmaz; aynı zamanda proje atama, ilerleme takibi, puan kazanma ve seviye sistemi gibi etkileşimli özellikleri de deneyimler.
 
-   ```bash
-   npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+## Oyunlaştırma Özellikleri
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- Proje atama sistemi
+- XP / puan kazanımı
+- Seviye sistemi: Junior, Mid, Senior, Lead
+- Rozet / achievement yapısı
+- Uzmanlık alanına göre bonus XP
+- Proje ilerleme takibi
+- Dinamik durum alanı
+- Modern ve etkileşimli kullanıcı arayüzü
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+## Kullanılan Teknolojiler
 
-When you're ready, run:
+- React Native
+- Expo
+- Expo Router
+- TypeScript
+- React Hooks
+- StyleSheet / Animated yapı
 
+---
+
+## Nasıl Çalıştırılır?
+
+### 1. Repoyu klonlayın
 ```bash
-npm run reset-project
+git clone https://github.com/eslengulakbulut1/Developer-Career-Card.git
 ```
+### 2. Proje klasörüne girin
+```bash
+cd developer-career-card
+```
+### 3. Gerekli bağımlılıkları yükleyin
+```bash
+npm install
+```
+### 4. Uygulamayı başlatın
+```bash
+npx expo start
+```
+### 5. Telefonda çalıştırın
+Expo Go uygulamasını telefonunuza yükleyin ve terminalde oluşan QR kodu okutun.
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-## Learn more
+## APK Linki
 
-To learn more about developing your project with Expo, look at the following resources:
+APK dosyasına aşağıdaki bağlantı üzerinden ulaşabilirsiniz:
+APK Linki: BURAYA_APK_LINKI
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+---
 
-## Join the community
+### YouTube Tanıtım Videosu
 
-Join our community of developers creating universal apps.
+Uygulamanın kısa tanıtım videosuna aşağıdaki bağlantıdan ulaşabilirsiniz:
+YouTube Linki: https://youtube.com/shorts/ZOnQaEjn_hg?feature=share 
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---
+
+### Kullanıcı Geri Bildirim Raporu
+
+Uygulama, üç farklı kullanıcı ile test edilmiştir. Kullanıcılardan alınan geri bildirimler doğrultusunda uygulamanın sade, modern ve anlaşılır olduğu görülmüştür. En çok beğenilen özellikler proje atama yapısı, XP sistemi ve seviye ilerleyişi olmuştur. Geri bildirim raporu repo içerisinde ayrıca paylaşılmıştır.
+
+Rapor Dosyası: geri-bildirim-raporu.pdf
+
+### Geliştirici
+
+Eslen Gül Akbulut
+
